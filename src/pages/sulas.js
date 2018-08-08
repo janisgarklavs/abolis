@@ -2,10 +2,10 @@ import React from 'react'
 
 import Layout from '../components/layout'
 
-const IndexPage = () => (
+const JuicePage = () => (
   <Layout>
-    .. main page
+    Par sulām
   </Layout>
 )
 
-export default IndexPage
+export default JuicePage

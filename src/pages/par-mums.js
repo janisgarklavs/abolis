@@ -2,10 +2,10 @@ import React from 'react'
 
 import Layout from '../components/layout'
 
-const IndexPage = () => (
+const AboutPage = () => (
   <Layout>
-    .. main page
+    ... Par Ābolis
   </Layout>
 )
 
-export default IndexPage
+export default AboutPage
